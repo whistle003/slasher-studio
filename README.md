@@ -6,7 +6,9 @@ Slasher Studio 是一个 Windows x64 工具，用于查找《Call of Duty》资�
 
 ## 运行
 
-使用便携版时，解压 Windows x64 ZIP 后打开 `SlasherStudio.exe`，并保留同目录的 `_internal`。从本仓库运行源码需要 Windows x64 和 Python 3.13，Tkinter 随常规 Windows Python 安装提供。仓库附带预编译的 CPU 引擎和 CDB 转换器。
+Windows x64 便携版解压后即可运行。打开 `SlasherStudio.exe`，并保留同目录的 `_internal`。 [下载 1.14.5 便携版](https://github.com/whistle003/slasher-studio/releases/download/v1.14.5/Slasher-Studio-1.14.5-win-x64.zip) · [SHA256 校验和](https://github.com/whistle003/slasher-studio/releases/download/v1.14.5/SHA256SUMS.txt) · [发布说明](https://github.com/whistle003/slasher-studio/releases/tag/v1.14.5)
+
+从本仓库运行源码需要 Windows x64 和 Python 3.13，Tkinter 随常规 Windows Python 安装提供。仓库附带预编译的 CPU 引擎和 CDB 转换器。
 
 ```powershell
 git clone https://github.com/whistle003/slasher-studio.git
